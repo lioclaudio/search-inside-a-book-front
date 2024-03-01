@@ -1,0 +1,27 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.css-az8st9-MuiDataGrid-root{
+  color: aliceblue!important;
+}
+
+.css-rtrcn9-MuiTablePagination-root{
+  color: aliceblue!important;
+}
+
+.css-pqjvzy-MuiSvgIcon-root-MuiSelect-icon{
+  color: rgba(255, 255, 255, 0.54)!important;
+}
+
+.css-1pe4mpk-MuiButtonBase-root-MuiIconButton-root {
+  color: rgba(255, 255, 255, 0.54)!important;
+}
+
+.card {
+  padding: 2em;
+}
+
