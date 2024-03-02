@@ -1,5 +1,5 @@
 # Search in a book (Elocuent Javascript)
-Front end del projecto de publica.la.
+Frontend del proyecto de publica.la.
 
 ## Instalacion
 
@@ -8,7 +8,7 @@ Front end del projecto de publica.la.
 npm install
 ```
 ## Uso
-- Corre el projecto con npm
+- Corre el proyecto con npm
 ```bash
 npm run dev
 ```
